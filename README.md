@@ -9,5 +9,5 @@ See the screenshots below:<br />
 
 <p align="center">
   <img src="https://github.com/CodeSpurt/MakingAPICallsWithRetrofit/blob/master/app/src/main/res/drawable/screenshot_1.png" width="350"/>
-  <img src="https://github.com/CodeSpurt/MakingAPICallsWithRetrofit/blob/master/app/src/main/res/drawable/screenshot_1.png" width="350"/>
+  <img src="https://github.com/CodeSpurt/MakingAPICallsWithRetrofit/blob/master/app/src/main/res/drawable/screenshot_2.png" width="350"/>
 </p>
