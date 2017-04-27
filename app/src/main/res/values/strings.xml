@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MakingAPICallsWithRetrofit</string>
+
+    <string name="get">Get</string>
+    <string name="post">Post</string>
+
+    <string name="please_wait">Please wait...</string>
+
+    <string name="get_data_get_successful">Get data get successful</string>
+    <string name="post_data_get_successful">Post data get successful</string>
+</resources>
